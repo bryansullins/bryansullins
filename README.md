@@ -1,9 +1,10 @@
 * 👋 Hi, I’m @bryansullins
 * 👀 I’m interested in Russian Literature, Cats, and Mechanical Keyboards.
-* 🌱 I’m currently learning how to be a better Solution Engineer.
+* 🌱 I’m a Solutions Architect and always a work in progress (aren't we all!)
 * 📫 How to reach me:
-- Twitter: @RussianLitGuy
-- Email: bryan.sullins@gmail.com 
+- BlueSky: @realbryansullins.bsky.social
+- LinkedIn: https://www.linkedin.com/in/bryan-sullins-4a903a4/
+- Email: bryan.sullins@gmail.com
 
 <!---
 bryansullins/bryansullins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
